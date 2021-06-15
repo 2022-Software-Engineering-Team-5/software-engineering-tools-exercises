@@ -1,0 +1,31 @@
+[Room_Type] [Room_Number] [Capacity] [isUsed] [Multi Room: isBoard or Open Room: isMusic] [assignedID] [usingPersonID]
+Member 1 1 0 false 0 0
+Member 2 1 0 false 0 0
+Member 3 1 0 false 0 0
+Member 4 1 0 false 0 0
+Member 5 1 0 false 0 0
+Member 6 1 0 false 0 0
+Member 7 1 0 false 0 0
+Member 8 1 0 false 0 0
+Member 9 1 0 false 0 0
+Member 10 1 0 false 0 0
+Member 11 1 0 false 0 0
+Member 12 1 0 false 0 0
+Member 13 1 0 false 0 0
+Member 14 1 0 false 0 0
+Member 15 1 0 false 0 0
+Single 16 1 0 false 0 0
+Single 17 1 0 false 0 0
+Single 18 1 0 false 0 0
+Single 19 1 0 false 0 0
+Single 20 1 0 false 0 0
+Single 21 1 0 false 0 0
+Single 22 1 0 false 0 0
+Single 23 1 0 false 0 0
+Single 24 1 0 false 0 0
+Single 25 1 0 false 0 0
+Multi 26 2 0 true 0 0 0 0 
+Multi 27 2 0 true 0 0 0 0 
+Multi 28 2 0 true 0 0 0 0 
+Multi 29 2 0 true 0 0 0 0 
+Open 30 5 0 true 0 0 0 0 0 0 0 0 0 0 
