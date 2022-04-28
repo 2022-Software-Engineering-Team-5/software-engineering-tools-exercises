@@ -5,6 +5,14 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
+/**
+ * Manager class is a class that manages members and rooms as a whole.
+ * This class inherits Person class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Person} 
+ */
 public class Manager extends Person {
     private int managerKey;
 

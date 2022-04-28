@@ -7,6 +7,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Manager login window
+ * Check if the information is correct when manager enter ID and Manager Key.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ */
 public class ManagerLogin extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

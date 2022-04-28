@@ -3,6 +3,15 @@ package Person;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
+/**
+ * Guest class is a class with non-member information.
+ * This class inherits the Person class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Person}
+ *
+ */
 public class Guest extends Person {
 	private static int guestCount = 1000000;
 

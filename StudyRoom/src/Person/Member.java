@@ -5,6 +5,14 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
+/**
+ * Member class is a class with member information.
+ * This class inherits Person class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Person}
+ */
 public class Member extends Person {
 	private int memberPW;
 	private int memberWallet;
