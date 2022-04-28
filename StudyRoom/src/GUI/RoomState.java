@@ -11,6 +11,12 @@ import java.util.*;
 import javax.swing.border.*;
 import java.awt.BorderLayout;
 
+/**
+ * GUI: Room information window
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class RoomState extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

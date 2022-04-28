@@ -7,7 +7,13 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-
+/**
+ * StudyRoom class is a class that operates and manages overall system's functions.
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ * @see {@link StudyRoomDemo}
+ */
 public class StudyRoom implements StudyRoomInterface {
 	private boolean isOpen;
 

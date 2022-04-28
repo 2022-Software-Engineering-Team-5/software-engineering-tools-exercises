@@ -6,6 +6,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Window for charging money (member)
+ * Input ID and Money (1000 won).
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class MemberCharge extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

@@ -7,6 +7,14 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Member's login window
+ * Input ID and password.
+ * If two input values are correct, then success!
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class MemberLogin extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;
