@@ -7,6 +7,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Guest main window
+ * Guest select a room or view(see?) room information
+ *
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ */
 public class GuestGUI extends JFrame implements ActionListener {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

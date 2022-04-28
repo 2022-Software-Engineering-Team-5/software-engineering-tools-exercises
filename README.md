@@ -6,7 +6,7 @@ Apply at least two tools to the real programs (Object-oriented programming term 
 
 ## Software Engineering Tools (SE Tools)
 - [Git] - for cooperation with team members 
-- [Javadoc] - for checking, ./doc/
+- [Javadoc] - for checking, ./StudyRoom/doc/
 
 ## Object-oriented programming's description
 - for executing with UI:

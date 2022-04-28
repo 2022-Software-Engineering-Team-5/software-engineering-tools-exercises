@@ -1,5 +1,12 @@
 package Person;
 
+/**
+ * Person class is super class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Person}
+ */
 public class Person {
 	private String name;
 	private int ID;

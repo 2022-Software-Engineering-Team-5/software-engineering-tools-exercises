@@ -7,6 +7,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Guest login window
+ * When guest enter a name, an id is assigned.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ */
 public class GuestLogin extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;
