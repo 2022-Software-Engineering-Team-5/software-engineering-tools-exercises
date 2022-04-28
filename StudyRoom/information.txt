@@ -1,5 +1,5 @@
 [Room_Type] [Room_Number] [Capacity] [isUsed] [Multi Room: isBoard or Open Room: isMusic] [assignedID] [usingPersonID]
-Member 1 1 0 false 0 0
+Member 1 1 2 false 0 1
 Member 2 1 0 false 0 0
 Member 3 1 0 false 0 0
 Member 4 1 0 false 0 0

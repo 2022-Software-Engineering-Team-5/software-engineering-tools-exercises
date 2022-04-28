@@ -4,11 +4,12 @@ import java.util.Scanner;
 import Person.*;
 
 /**
- * Study Room Demo Class
- * Main Class for Executing the System
- * @author Nam Gyeong-hwa
+ * StudyRoomDemo class for executing the system (console-based UI)
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ * @see {@link StudyRoom}
  */
-
 public class StudyRoomDemo {
 
 	@SuppressWarnings("resource")

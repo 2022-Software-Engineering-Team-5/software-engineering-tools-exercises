@@ -6,6 +6,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Member registration window
+ * Input name, ID and password.
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class MemberRegistration extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

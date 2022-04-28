@@ -6,6 +6,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: for input
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class InputGUI extends JFrame {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;

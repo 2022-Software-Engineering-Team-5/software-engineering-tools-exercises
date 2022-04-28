@@ -7,6 +7,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Member's main window
+ * Button: Member, Member Charge, Member Resistration
+ * 
+ * @author Nam Seonwoo
+ * @version JDK 17.0.2
+ */
 public class MemberGUI extends JFrame implements ActionListener {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;
