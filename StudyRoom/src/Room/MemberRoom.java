@@ -4,6 +4,14 @@ import javax.swing.JOptionPane;
 
 import Person.*;
 
+/**
+ * MemberRoom class is a class that implements room that only members can use.
+ * This class inherits the Room class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Room} {@link Person}
+ */
 public class MemberRoom extends Room {
 	
 	public MemberRoom()

@@ -3,6 +3,14 @@ package Room;
 import Person.*;
 import javax.swing.JOptionPane;
 
+/**
+ * SingleRoom class is a class that implements a room that only one person can use.
+ * This class inherits the Room class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Room} {@link Person}
+ */
 public class SingleRoom extends Room {
 
 	public SingleRoom()
