@@ -5,7 +5,6 @@ package Person;
  * 
  * @author Lee Hajeong
  * @version JDK 11.0.11
- * @see {@link Person}
  */
 public class Person {
 	private String name;

@@ -8,7 +8,6 @@ import javax.swing.JOptionPane;
  * 
  * @author Lee Hajeong
  * @version JDK 11.0.11
- * @see {@link Person}
  */
 public class Room {
 	private int roomNumber;

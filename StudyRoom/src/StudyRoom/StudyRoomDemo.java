@@ -8,7 +8,6 @@ import Person.*;
  * 
  * @author Nam Seonwoo
  * @version JDK 17.0.2
- * @see {@link StudyRoom}
  */
 public class StudyRoomDemo {
 
