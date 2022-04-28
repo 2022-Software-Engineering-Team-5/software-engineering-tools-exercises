@@ -6,6 +6,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * GUI: Window for determining study room system status
+ * Manager can decide whether to open or close the study room system
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ */
 public class OpenOrClose extends JFrame implements ActionListener {
 	public static final int WIDTH = 1000;
 	public static final int HEIGHT = 500;
