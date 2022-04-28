@@ -9,7 +9,6 @@ import Room.Room;
  * 
  * @author Nam Seonwoo
  * @version JDK 17.0.2
- * @see {@link StudyRoom}
  */
 public interface StudyRoomInterface {
 	public static final int NUMBER_OF_ROOM = 30;

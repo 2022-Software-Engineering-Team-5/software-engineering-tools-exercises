@@ -12,7 +12,6 @@ import javax.swing.JOptionPane;
  * 
  * @author Nam Seonwoo
  * @version JDK 17.0.2
- * @see {@link StudyRoomDemo}
  */
 public class StudyRoom implements StudyRoomInterface {
 	private boolean isOpen;

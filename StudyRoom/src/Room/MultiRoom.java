@@ -10,7 +10,6 @@ import Person.*;
  * 
  * @author Lee Hajeong
  * @version JDK 11.0.11
- * @see {@link Room} {@link Person}
  */
 public class MultiRoom extends Room {
 	private int[] assignedID = new int[getCapacity()];
