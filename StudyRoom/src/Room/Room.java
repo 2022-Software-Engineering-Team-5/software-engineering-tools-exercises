@@ -3,6 +3,13 @@ package Room;
 import Person.Person;
 import javax.swing.JOptionPane;
 
+/**
+ * Room class is Super class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Person}
+ */
 public class Room {
 	private int roomNumber;
 	private int capacity;

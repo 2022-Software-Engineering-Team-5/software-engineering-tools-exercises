@@ -4,6 +4,14 @@ import javax.swing.JOptionPane;
 
 import Person.*;
 
+/**
+ * OpenRoom class is a class that implements room for anyone to use.
+ * This class inherits the Room class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Room} {@link Person}
+ */
 public class OpenRoom extends Room {
 	private int[] assignedID = new int[getCapacity()];
 	private int[] usingPerson = new int[getCapacity()];

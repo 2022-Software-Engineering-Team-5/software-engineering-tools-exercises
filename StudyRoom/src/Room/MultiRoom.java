@@ -4,6 +4,14 @@ import javax.swing.JOptionPane;
 
 import Person.*;
 
+/**
+ * MultiRoom class is a class that implements room that can be used by multiple users.
+ * This class inherits the Room class.
+ * 
+ * @author Lee Hajeong
+ * @version JDK 11.0.11
+ * @see {@link Room} {@link Person}
+ */
 public class MultiRoom extends Room {
 	private int[] assignedID = new int[getCapacity()];
 	private int[] usingPerson = new int[getCapacity()];
